@@ -1,0 +1,5 @@
+The file audio produced by the phase vocoder was more similar to what I did expect the audio to
+sound like than the audio produced by the function named resize_spectogram.
+In the spectogram function I write, the audio was not so clear resulting by the phase not being very veru correct.
+The phase correction done by the phase_vocoder function makes a clearer sound, mpre similar to the
+original file.

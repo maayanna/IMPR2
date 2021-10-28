@@ -1,0 +1,5 @@
+The difference between change_rate.wav and change_samples.wav is that the pitch of change_rate.wav is higher than
+the pitch of change_samples.wav .
+By speeding up the file in change_samples.wav, we keep the same rate but remove the higher frequencies
+and keep the remaining frequencies the same.
+On the other side, in change_rate.wav we just speed up the samples.

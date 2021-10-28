@@ -1,0 +1,7 @@
+Using the conv_der and the fourier_der functions we get in fact two different magnitudes.
+By calculating the derivative using fourier, we calculate it on all pixels it is a
+continuous function.
+And by calculating the derivative using convolution, we get an approximation of the values
+(with the values that are around the point we want to derive)
+-> Finally we get whiter pixels using the conv_der function ( higher intensity of the pixels
+of the image).
